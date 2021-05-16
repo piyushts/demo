@@ -1,14 +1,53 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+  data:{
+    docs:[
+
+      {
+added_by: "5ffda2d3886c3500152cf1f5"
+address: "address"
+email: "org@gmail.com"
+is_active: false
+org_code: "vgn"
+org_name: "vignan"
+phone: "234234324"
+state: "Telangana"
+student_count: 23
+__v: 0
+_created: "2021-03-16T09:41:36.005Z"
+_id: "60507d50a874b2004af9c7fc"
+_updated: "2021-05-15T09:25:47.777Z"
+      },      {
+added_by: "5ffda2d3886c3500152cf1f5"
+address: "address"
+email: "org@gmail.com"
+is_active: false
+org_code: "vgn"
+org_name: "vignan"
+phone: "234234324"
+state: "Telangana"
+student_count: 23
+__v: 0
+_created: "2021-03-16T09:41:36.005Z"
+_id: "60507d50a874b2004af9c7fc"
+_updated: "2021-05-15T09:25:47.777Z"
+      },      {
+added_by: "5ffda2d3886c3500152cf1f5"
+address: "address"
+email: "org@gmail.com"
+is_active: false
+org_code: "vgn"
+org_name: "vignan"
+phone: "234234324"
+state: "Telangana"
+student_count: 23
+__v: 0
+_created: "2021-03-16T09:41:36.005Z"
+_id: "60507d50a874b2004af9c7fc"
+_updated: "2021-05-15T09:25:47.777Z"
+      }
+
+]
+}
+
 }
